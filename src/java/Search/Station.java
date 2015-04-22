@@ -5,17 +5,21 @@
  */
 package Search;
 
+import java.io.Serializable;
+
 /**
  *
  * @author grishasergei
  */
-public class Station {
+public class Station implements Serializable {
     private String name;
     private String color;
     private String imgUrl;
     
     public Station(){
-        //
+        name = "";
+        color = "";
+        imgUrl = "";
     }
     
     public String getName(){
