@@ -10,6 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>${stationName}</title>
+        <link rel="stylesheet" href="styles/common.css" type="text/css" />
         <style>
           #map-canvas {
             width: 600px;
