@@ -14,35 +14,87 @@ import java.io.Serializable;
 public class Station implements Serializable {
     private String name;
     private String color;
-    private String imgUrl;
+    private double latitude;
+    private double longitude;
+    private String pin_color;
+    
     
     public Station(){
         name = "";
         color = "";
-        imgUrl = "";
+        latitude = 0;
+        longitude = 0;
+        pin_color = "";
     }
     
-    public String getName(){
-        return name;
-    }
-    
-    public void setName(String value){
-        name = value;
-    }
-    
-    public String getColor(){
-        return color;
-    }
-    
-    public void setColor(String value){
-        color = value;
+    /**
+     * @return the latitude
+     */
+    public double getLatitude() {
+        return latitude;
     }
 
-    public String getImgUrl(){
-        return imgUrl;
+    /**
+     * @param latitude the latitude to set
+     */
+    public void setLatitude(double latitude) {
+        this.latitude = latitude;
     }
-    
-    public void setImgUrl(String value){
-        imgUrl = value;
+
+    /**
+     * @return the longtitude
+     */
+    public double getLongitude() {
+        return longitude;
     }
+
+    /**
+     * @param longitude the longtitude to set
+     */
+    public void setLongitude(double longitude) {
+        this.longitude = longitude;
+    }
+
+    /**
+     * @return the pin_color
+     */
+    public String getPin_color() {
+        return pin_color;
+    }
+
+    /**
+     * @param pin_color the pin_color to set
+     */
+    public void setPin_color(String pin_color) {
+        this.pin_color = pin_color;
+    }
+
+    /**
+     * @return the name
+     */
+    public String getName() {
+        return name;
+    }
+
+    /**
+     * @param name the name to set
+     */
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    /**
+     * @return the color
+     */
+    public String getColor() {
+        return color;
+    }
+
+    /**
+     * @param color the color to set
+     */
+    public void setColor(String color) {
+        this.color = color;
+    }
+
 }

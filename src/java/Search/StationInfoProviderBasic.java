@@ -33,27 +33,22 @@ public class StationInfoProviderBasic implements StationInfoProvider {
             station = new Station();
             station.setName("Slussen");
             station.setColor(CL_BLACK);
-            station.setImgUrl("http://www.t-bana.net/images/slussen/IMGP9936%20bl.jpg");
         } else if (name.equalsIgnoreCase("ropsten")){
             station = new Station();
             station.setName("Ropsten");
             station.setColor(CL_RED);
-            station.setImgUrl("http://www.t-bana.net/images/ropsten/IMGP7771_2_3_fused%20copy.jpg");
         } else if (name.equalsIgnoreCase("farsta strand")){
             station = new Station();
             station.setName("Farsta strand");
             station.setColor(CL_GREEN);
-            station.setImgUrl("http://www.t-bana.net/images/farsta_strand/IMGP0148_bl.jpg");
         } else if (name.equalsIgnoreCase("Akalla")){
             station = new Station();
             station.setName("Akalla");
             station.setColor(CL_BLUE);
-            station.setImgUrl("http://www.t-bana.net/images/akalla/IMGP8363_bl.jpg");
         } else if (name.equalsIgnoreCase("t-centralen")){
             station = new Station();
             station.setName("T-Centralen");
             station.setColor(CL_BLACK);
-            station.setImgUrl("http://www.t-bana.net/images/tcentralen/IMGP9706_7_fused_bl.jpg");
         }     
         return station;
     }

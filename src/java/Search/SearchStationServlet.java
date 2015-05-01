@@ -33,19 +33,7 @@ public class SearchStationServlet extends HttpServlet {
      */
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        response.setContentType("text/html;charset=UTF-8");
-        try (PrintWriter out = response.getWriter()) {
-            /* TODO output your page here. You may use following sample code. */
-            out.println("<!DOCTYPE html>");
-            out.println("<html>");
-            out.println("<head>");
-            out.println("<title>Servlet SearchStationServlet</title>");            
-            out.println("</head>");
-            out.println("<body>");
-            out.println("<h1>Servlet SearchStationServlet at " + request.getContextPath() + "</h1>");
-            out.println("</body>");
-            out.println("</html>");
-        }
+        //
     }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
@@ -74,10 +62,13 @@ public class SearchStationServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        String requestedStation = request.getParameter("requestedStationName"); //sanitize!
+        
+        String requestedStation;
+        requestedStation = new String(request.getParameter("requestedStationName").getBytes(
+                "iso-8859-1"), "UTF-8");
         
         //create an instance of StationInformationProvider
-        StationInfoProvider stationInfoProvider = new StationInfoProviderBasic();
+        StationInfoProvider stationInfoProvider = new StationInfoProviderDB();
         
         //Get station object
         Station station = stationInfoProvider.getStation(requestedStation);
@@ -92,7 +83,9 @@ public class SearchStationServlet extends HttpServlet {
 
             request.setAttribute("stationName", station.getName());
             request.setAttribute("stationColor",station.getColor());
-            request.setAttribute("imgUrl",station.getImgUrl());
+            request.setAttribute("latitude",station.getLatitude());
+            request.setAttribute("longitude",station.getLongitude());
+            
             
             rd.forward(request, response);
         } else {
