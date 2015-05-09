@@ -21,7 +21,7 @@
         <text transform="matrix(1 0 0 1 335.7412 84.1636)" fill="#FFFFFF">Hallonbergen</text>
     </a>
     <a xlink:href="./SearchStationServlet?requestedStationName=kista" target="_top">  
-	    <text transform="matrix(1 0 0 1 312.1162 60.5386)"><tspan x="0" y="0" fill="#FFFFFF">Kist</tspan><tspan x="14.751" y="0" fill="#FFFFFF">a</tspan></text>
+	    <text transform="matrix(1 0 0 1 312.1162 60.5386)"><tspan x="0" y="0" fill="#FFFFFF">Kista</tspan></text>
     </a>
     <a xlink:href="./SearchStationServlet?requestedStationName=husby" target="_top">  
 	    <text transform="matrix(1 0 0 1 288.4912 36.9136)" fill="#FFFFFF">Husby</text>
@@ -353,7 +353,7 @@
     	<text transform="matrix(1 0 0 1 661 323.7437)" fill="#FFFFFF">Medborgarplatsen</text>
     </a>
     <a xlink:href="./SearchStationServlet?requestedStationName=skanstull" target="_top">  
-	    <text transform="matrix(1 0 0 1 661 348.8745)" fill="#FFFFFF">Skanstull</text>
+	<text transform="matrix(1 0 0 1 661 348.8745)" fill="#FFFFFF">Skanstull</text>
     </a>
 	<polyline fill="#4B5DAA" points="746.489,238.476 746.489,249.815 748.757,249.815 748.757,238.476 746.489,238.476 	"/>
     <a xlink:href="./SearchStationServlet?requestedStationName=kungstradgarden" target="_top"> 

@@ -1,0 +1,15 @@
+/*
+Course 1TD204 VT2015 Sergii Gryshkevych, Gunnar Nilsson
+*/
+/* 
+    Created on : May 9, 2015, 5:30:25 PM
+    Author     : grishasergei
+*/
+#map_container{
+    max-height: 100%;
+    max-width: 100%;
+}
+#map{
+    margin: 0 auto;
+    display: block;
+}
