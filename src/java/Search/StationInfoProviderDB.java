@@ -4,16 +4,22 @@
 package Search;
 
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import javax.naming.Context;
+import javax.naming.InitialContext;
+import javax.naming.NamingException;
+import javax.sql.DataSource;
 
 /**
  *
  * @author grishasergei
  */
 public class StationInfoProviderDB implements StationInfoProvider {
+    
+    //@Resource(lookup="jdbc/tbDataSource")
+    //private DataSource dataSource;
     
     public StationInfoProviderDB(){
         //
@@ -27,9 +33,10 @@ public class StationInfoProviderDB implements StationInfoProvider {
         Station station = null;
         name = name.trim();
         try{
-            //Class.forName("com.mysql.jdbc");
-            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/tbana?zeroDateTimeBehavior=convertToNull&useUnicode=true&characterEncoding=utf8","tbana","tbana");
-            statement = conn.prepareStatement("select * from stations where safeName = ?");
+            Context ctx = new InitialContext();
+            DataSource ds = (DataSource)ctx.lookup("jdbc/tbDataSource");
+            conn = ds.getConnection();
+            statement = conn.prepareStatement("SELECT * FROM STATIONS where \"safeName\" = ?");
             statement.setString(1, name);
             rs = statement.executeQuery();
             while(rs.next()){
@@ -39,7 +46,7 @@ public class StationInfoProviderDB implements StationInfoProvider {
                 station.setLatitude(rs.getDouble("latitude"));
                 station.setLongitude(rs.getDouble("longitude"));               
             }
-        } catch(Exception e){
+        } catch(NamingException | SQLException e){
             station = null;
         } finally {
             try{
