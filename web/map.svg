@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+    <!ENTITY ns_svg "http://www.w3.org/2000/svg">
+    <!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="843.355" height="595.275" viewBox="0 0 843.355 595.275"
+	 overflow="visible" enable-background="new 0 0 843.355 595.275" xml:space="preserve" preserveAspectRatio="xMidYMin meet">
+	 <g font-family="'Calibri','Arial'" font-size="10">
+<g id="Layer_2" display="none">
+    <rect display="inline" width="846.504" height="595.275"/>
+</g>
+<g id="Layer_1">
+    <polyline fill="none" stroke="#48A347" stroke-width="5" stroke-miterlimit="3" points="653,370.484 603,370.484 387,586.484 	"/>
+	<polyline fill="none" stroke="#4B5DAA" stroke-width="5" points="747.824,244.346 486,244.484 396,154.484 297,154.484 162,19.484 
+			"/>
+    <a xlink:href="./SearchStationServlet?requestedStationName=sundbybergs_centrum" target="_top">        
+	    <text transform="matrix(1 0 0 1 262.292 104.7144)"><tspan x="0" y="0" fill="#FFFFFF">Sundbybergs</tspan><tspan x="0" y="10" fill="#FFFFFF">centrum</tspan></text>
+	</a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=hallonbergen" target="_top">  
+        <text transform="matrix(1 0 0 1 335.7412 84.1636)" fill="#FFFFFF">Hallonbergen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=kista" target="_top">  
+	    <text transform="matrix(1 0 0 1 312.1162 60.5386)"><tspan x="0" y="0" fill="#FFFFFF">Kista</tspan></text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=husby" target="_top">  
+	    <text transform="matrix(1 0 0 1 288.4912 36.9136)" fill="#FFFFFF">Husby</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=nackrosen" target="_top">  
+	    <text transform="matrix(1 0 0 1 359.3662 107.7886)" fill="#FFFFFF">Näckrosen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=solna_centrum" target="_top">  
+	    <text transform="matrix(1 0 0 1 382.9912 131.4136)" fill="#FFFFFF">Solna centrum</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=akalla" target="_top">  
+	    <text transform="matrix(1 0 0 1 264.0137 12.5386)" fill="#FFFFFF">Akalla</text>
+    </a>
+	<line fill="#FFFFFF" stroke="#48A347" stroke-width="5" stroke-miterlimit="3" x1="653" y1="406.484" x2="797" y2="479.984"/>
+	<polyline fill="none" stroke="#E83938" stroke-width="5" stroke-miterlimit="3" points="644,19.484 644,316.484 288,316.484 
+		18,586.484 	"/>
+	<line fill="none" stroke="#E83938" stroke-width="5" stroke-miterlimit="3" x1="645" y1="173.208" x2="770" y2="91.484"/>
+	<line fill="none" stroke="#E83938" stroke-width="5" stroke-miterlimit="3" x1="441" y1="316.484" x2="279" y2="478.484"/>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="7" stroke-miterlimit="3" points="18,19.484 207,208.483 653,208.483 
+			653,586.484 		"/>
+		<polyline fill="none" stroke="#48A347" stroke-width="5" points="18,19.484 207,208.483 653,208.483 653,586.484 		"/>
+	</g>
+	<g>
+		<path d="M649.5,370.484c0,1.93,1.57,3.5,3.5,3.5s3.5-1.57,3.5-3.5s-1.57-3.5-3.5-3.5S649.5,368.554,649.5,370.484z"/>
+		<path fill="#48A347" d="M653,365.984c-2.486,0-4.5,2.016-4.5,4.5c0,2.487,2.014,4.5,4.5,4.5c2.485,0,4.5-2.013,4.5-4.5
+			C657.5,368,655.485,365.984,653,365.984L653,365.984z M653,372.984c-1.379,0-2.5-1.121-2.5-2.5s1.121-2.5,2.5-2.5
+			s2.5,1.121,2.5,2.5S654.379,372.984,653,372.984L653,372.984z"/>
+		<circle fill="none" stroke="#000000" stroke-miterlimit="3" cx="653" cy="370.484" r="4.5"/>
+	</g>
+	<g>
+		<path d="M649.5,406.443c0,1.93,1.57,3.5,3.5,3.5s3.5-1.57,3.5-3.5s-1.57-3.5-3.5-3.5S649.5,404.513,649.5,406.443z"/>
+		<path fill="#48A347" d="M653,401.943c-2.486,0-4.5,2.016-4.5,4.5c0,2.487,2.014,4.5,4.5,4.5c2.485,0,4.5-2.013,4.5-4.5
+			C657.5,403.958,655.485,401.943,653,401.943L653,401.943z M653,408.943c-1.379,0-2.5-1.121-2.5-2.5s1.121-2.5,2.5-2.5
+			s2.5,1.121,2.5,2.5S654.379,408.943,653,408.943L653,408.943z"/>
+		<circle fill="none" stroke="#000000" stroke-miterlimit="3" cx="653" cy="406.443" r="4.5"/>
+	</g>
+	<g>
+		<rect x="632.822" y="240.234" width="31.178" height="9"/>
+		<rect x="632.822" y="240.234" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="3" width="31.178" height="9"/>
+		<path fill="#FFFFFF" d="M664,240.234h-31.178v9H664v-2l0,0l0,0V240.234L664,240.234z M634.822,242.234H662v5h-27.178V242.234
+			L634.822,242.234z"/>
+	</g>
+	<g>
+		<path d="M639.41,267.533c0,1.233,0,3.853,0,5.086c1.708,0,16.135,0,17.843,0c0-1.233,0-3.853,0-5.086
+			C655.545,267.533,641.118,267.533,639.41,267.533z"/>
+		<path fill="#FFFFFF" d="M658.252,266.533H638.41v7.086h19.842v-2l0,0l0,0V266.533L658.252,266.533z M640.41,268.533h15.842v3.086
+			H640.41V268.533L640.41,268.533z"/>
+		<rect x="638.41" y="266.533" fill="none" stroke="#000000" stroke-miterlimit="3" width="19.843" height="7.086"/>
+	</g>
+	<g>
+		<path d="M639.41,292.874c0,1.233,0,3.854,0,5.087c1.708,0,16.135,0,17.843,0c0-1.233,0-3.854,0-5.087
+			C655.545,292.874,641.118,292.874,639.41,292.874z"/>
+		<path fill="#FFFFFF" d="M658.252,291.875H638.41v7.087h19.842v-2l0,0l0,0V291.875L658.252,291.875z M640.41,293.875h15.842v3.087
+			H640.41V293.875L640.41,293.875z"/>
+		<rect x="638.41" y="291.874" fill="none" stroke="#000000" stroke-miterlimit="3" width="19.843" height="7.087"/>
+	</g>
+	<polyline fill="#48A347" points="22.811,16.276 21.208,14.673 13.189,22.691 14.792,24.295 22.811,16.276 	"/>
+	<polyline fill="#48A347" points="42.759,33.754 40.491,33.754 40.491,45.094 42.759,45.094 42.759,33.754 	"/>
+	<polyline fill="#48A347" points="66.384,57.379 64.116,57.379 64.116,68.719 66.384,68.719 66.384,57.379 	"/>
+	<polyline fill="#48A347" points="90.009,81.004 87.741,81.004 87.741,92.344 90.009,92.344 90.009,81.004 	"/>
+	<polyline fill="#48A347" points="113.634,104.629 111.366,104.629 111.366,115.969 113.634,115.969 113.634,104.629 	"/>
+	<polyline fill="#48A347" points="137.259,128.254 134.991,128.254 134.991,139.594 137.259,139.594 137.259,128.254 	"/>
+	<polyline fill="#48A347" points="160.884,151.879 158.616,151.879 158.616,163.219 160.884,163.219 160.884,151.879 	"/>
+	<polyline fill="#48A347" points="184.509,175.504 182.241,175.504 182.241,186.844 184.509,186.844 184.509,175.504 	"/>
+	<polyline fill="#48A347" points="204.732,208.483 204.732,214.153 207,214.153 207,208.483 204.732,208.483 	"/>
+	<polyline fill="#48A347" points="309.523,208.484 309.523,214.154 311.791,214.154 311.791,208.484 309.523,208.484 	"/>
+	<polyline fill="#48A347" points="274.971,208.484 274.971,214.153 277.238,214.153 277.238,208.484 274.971,208.484 	"/>
+	<polyline fill="#48A347" points="344.076,208.484 344.076,214.153 346.343,214.153 346.343,208.484 344.076,208.484 	"/>
+	<polyline fill="#48A347" points="240.418,208.484 240.418,214.153 242.686,214.153 242.686,208.484 240.418,208.484 	"/>
+	<polyline fill="#48A347" points="413.18,208.484 413.18,214.153 415.448,214.153 415.448,208.484 413.18,208.484 	"/>
+	<polyline fill="#48A347" points="378.628,208.484 378.628,214.153 380.896,214.153 380.896,208.484 378.628,208.484 	"/>
+	<polyline fill="#48A347" points="566.522,202.814 566.522,208.484 568.79,208.484 568.79,202.814 566.522,202.814 	"/>
+	<polyline fill="#48A347" points="527.313,202.814 527.313,208.484 529.581,208.484 529.581,202.814 527.313,202.814 	"/>
+	<polyline fill="#48A347" points="605.732,202.813 605.732,208.483 608,208.483 608,202.813 605.732,202.813 	"/>
+	<polyline fill="#48A347" points="488.104,202.814 488.104,208.484 490.371,208.484 490.371,202.814 488.104,202.814 	"/>
+	<path d="M41,443.484"/>
+
+    <a xlink:href="./SearchStationServlet?requestedStationName=akeshov" target="_top">  
+        <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 183.772 245.7104)" fill="#FFFFFF">Åkeshov</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=thorildsplan" target="_top">  
+        <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 381.4082 257.0049)" fill="#FFFFFF">Thorildsplan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=alvik" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 333.3267 235.229)" fill="#FFFFFF">Alvik</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=kristineberg" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 346.7744 256.2109)" fill="#FFFFFF">Kristineberg</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=stora_mossen" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 273.7046 260.4224)" fill="#FFFFFF">Stora mossen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=brommaplan" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 206.6221 258.4351)" fill="#FFFFFF">Brommaplan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=abrahamsberg" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 236.0122 263.4731)" fill="#FFFFFF">Abrahamsberg</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=tcentralen" target="_top">  
+	    <text transform="matrix(1 0 0 1 662 235.4839)" fill="#FFFFFF" font-size="12">T-Centralen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=gamla_stan" target="_top">  
+	    <text transform="matrix(1 0 0 1 661 273.4839)" fill="#FFFFFF">Gamla stan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=slussen" target="_top">  
+	    <text transform="matrix(1 0 0 1 661 298.6147)" fill="#FFFFFF">Slussen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=hotorget" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 609.1465 201.5723)" fill="#FFFFFF">Hötorget</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=radmansgatan" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 569.7236 199.4844)" fill="#FFFFFF">Rådmansgatan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=odenplan" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 530.9531 201.5723)" fill="#FFFFFF">Odenplan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=st_eriksplan" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 491.3965 201.5723)" fill="#FFFFFF">S:t Eriksplan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=fridhemsplan" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 456.6465 201.5723)" fill="#FFFFFF">Fridhemsplan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=stadshagen" target="_top">  
+	    <text transform="matrix(1 0 0 1 420.2412 168.6636)" fill="#FFFFFF">Stadshagen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=vastra_skogen" target="_top">  
+    	<text transform="matrix(1 0 0 1 400 150.0386)" fill="#FFFFFF">Västra skogen</text>
+    </a>
+	<path stroke="#000000" stroke-miterlimit="3" d="M434.25,234.458"/>
+	<g>
+		<polyline points="459.921,205.649 440.079,205.649 440.079,211.318 459.921,211.318 459.921,205.649 		"/>
+		<polyline fill="none" stroke="#000000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="3" points="459.921,205.649 
+			440.079,205.649 440.079,211.318 459.921,211.318 459.921,205.649 		"/>
+		<polyline fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-miterlimit="3" points="459.921,205.649 
+			440.079,205.649 440.079,211.318 459.921,211.318 459.921,205.649 		"/>
+	</g>
+	<polyline fill="#4B5DAA" points="422.509,170.504 420.241,170.504 420.241,181.844 422.509,181.844 422.509,170.504 	"/>
+	<polyline fill="#4B5DAA" points="380.259,128.254 377.991,128.254 377.991,139.594 380.259,139.594 380.259,128.254 	"/>
+	<polyline fill="#4B5DAA" points="356.634,104.629 354.366,104.629 354.366,115.969 356.634,115.969 356.634,104.629 	"/>
+	<polyline fill="#4B5DAA" points="333.009,81.004 330.741,81.004 330.741,92.344 333.009,92.344 333.009,81.004 	"/>
+	<polyline fill="#4B5DAA" points="309.384,57.379 307.116,57.379 307.116,68.719 309.384,68.719 309.384,57.379 	"/>
+	<polyline fill="#4B5DAA" points="285.759,33.754 283.491,33.754 283.491,45.094 285.759,45.094 285.759,33.754 	"/>
+	<polyline fill="#4B5DAA" points="265.811,16.276 264.208,14.673 256.189,22.691 257.792,24.295 265.811,16.276 	"/>
+
+    <a xlink:href="./SearchStationServlet?requestedStationName=huvudsta" target="_top">  
+        <text transform="matrix(1 0 0 1 300.8662 148.2886)" fill="#FFFFFF">Huvudsta</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=vreten" target="_top">  
+	    <text transform="matrix(1 0 0 1 281.5791 129.0015)" fill="#FFFFFF">Vreten</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=duvbo" target="_top">  
+	    <text transform="matrix(1 0 0 1 243.0049 90.4272)" fill="#FFFFFF">Duvbo</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=rissne" target="_top">  
+	    <text transform="matrix(1 0 0 1 223.7271 71.1489)" fill="#FFFFFF">Rissne</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=rinkeby" target="_top">  
+	    <text transform="matrix(1 0 0 1 204.4399 51.8618)" fill="#FFFFFF">Rinkeby</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=tensta" target="_top">  
+	    <text transform="matrix(1 0 0 1 185.1528 32.5757)" fill="#FFFFFF">Tensta</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=hjulsta" target="_top">  
+    	<text transform="matrix(1 0 0 1 164.7837 12.7886)" fill="#FFFFFF">Hjulsta</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=blackeberg" target="_top">  
+	    <text transform="matrix(1 0 0 1 139.9912 131.4136)" fill="#FFFFFF">Blackeberg</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=angbyplan" target="_top">  
+	    <text transform="matrix(1 0 0 1 187.2412 178.6636)" fill="#FFFFFF">Ängbyplan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=islandstorget" target="_top">  
+	    <text transform="matrix(1 0 0 1 163.6162 155.0386)" fill="#FFFFFF">Islandstorget</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=racksta" target="_top">  
+	    <text transform="matrix(1 0 0 1 116.3662 107.7886)" fill="#FFFFFF">Råcksta</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=vallingby" target="_top">  
+	    <text transform="matrix(1 0 0 1 92.7412 84.1636)" fill="#FFFFFF">Vällingby</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=johannelund" target="_top">  
+	    <text transform="matrix(1 0 0 1 69.1162 60.5376)" fill="#FFFFFF">Johannelund</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=hasselby_gard" target="_top">  
+	    <text transform="matrix(1 0 0 1 45.4912 36.9126)" fill="#FFFFFF">Hässelby gård</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=hasselby_strand" target="_top">  
+    	<text transform="matrix(1 0 0 1 20.7837 12.5386)" fill="#FFFFFF">Hässelby strand</text>
+    </a>
+	<rect x="653" y="433.484" fill="#48A347" width="5.669" height="2.268"/>
+	<rect x="653" y="455.169" fill="#48A347" width="5.669" height="2.268"/>
+	<rect x="653" y="476.854" fill="#48A347" width="5.669" height="2.268"/>
+	<rect x="653" y="498.54" fill="#48A347" width="5.669" height="2.268"/>
+	<rect x="653" y="520.224" fill="#48A347" width="5.669" height="2.268"/>
+	<rect x="653" y="541.91" fill="#48A347" width="5.669" height="2.268"/>
+	<rect x="653" y="563.594" fill="#48A347" width="5.669" height="2.268"/>
+	<polyline fill="#48A347" points="658.658,585.28 647.32,585.28 647.32,587.547 658.658,587.547 658.658,585.28 	"/>
+    <a xlink:href="./SearchStationServlet?requestedStationName=blasut" target="_top">  
+	    <text transform="matrix(1 0 0 1 661 435.7515)" fill="#FFFFFF">Blåsut</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=sandsborg" target="_top">  
+	    <text transform="matrix(1 0 0 1 661 457.7134)" fill="#FFFFFF">Sandsborg</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=skogskyrkogarden" target="_top">  
+	    <text transform="matrix(1 0 0 1 661 479.6753)" fill="#FFFFFF">Skogskyrkogården</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=tallkrogen" target="_top">  
+	    <text transform="matrix(1 0 0 1 661 501.6372)" fill="#FFFFFF">Tallkrogen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=gubbangen" target="_top">  
+	    <text transform="matrix(1 0 0 1 661 523.5981)" fill="#FFFFFF">Gubbängen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=hokarangen" target="_top">  
+	    <text transform="matrix(1 0 0 1 661 545.5601)" fill="#FFFFFF">Hökarängen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=farsta" target="_top">  
+	    <text transform="matrix(1 0 0 1 661 567.522)" fill="#FFFFFF">Farsta</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=farsta_strand" target="_top">  
+    	<text transform="matrix(1 0 0 1 661 593.4839)" fill="#FFFFFF">Farsta strand</text>
+    </a>
+	<polyline fill="#E83938" points="590,310.814 590,316.596 592.268,316.596 592.268,310.814 590,310.814 	"/>
+	<polyline fill="#E83938" points="388,310.814 388,316.596 390.268,316.596 390.268,310.814 388,310.814 	"/>
+	<polyline fill="#E83938" points="489,310.814 489,316.483 491.268,316.483 491.268,310.814 489,310.814 	"/>
+	<polyline fill="#E83938" points="539.5,310.814 539.5,316.596 541.768,316.596 541.768,310.814 539.5,310.814 	"/>
+	<polyline fill="#E83938" points="337.5,310.814 337.5,316.596 339.768,316.596 339.768,310.814 337.5,310.814 	"/>
+	<g>
+		<path d="M438,316.704c0,1.93,1.57,3.5,3.5,3.5s3.5-1.57,3.5-3.5s-1.57-3.5-3.5-3.5S438,314.774,438,316.704z"/>
+		<path fill="#E83938" d="M441.5,312.204c-2.486,0-4.5,2.016-4.5,4.5c0,2.486,2.014,4.5,4.5,4.5c2.485,0,4.5-2.014,4.5-4.5
+			C446,314.219,443.985,312.204,441.5,312.204L441.5,312.204z M441.5,319.204c-1.379,0-2.5-1.121-2.5-2.5s1.121-2.5,2.5-2.5
+			s2.5,1.121,2.5,2.5S442.879,319.204,441.5,319.204L441.5,319.204z"/>
+		<circle fill="none" stroke="#000000" stroke-miterlimit="3" cx="441.5" cy="316.704" r="4.5"/>
+	</g>
+	<polyline fill="#E83938" points="264.591,339.033 262.323,339.033 262.323,350.373 264.591,350.373 264.591,339.033 	"/>
+	<polyline fill="#E83938" points="240.048,363.576 237.78,363.576 237.78,374.916 240.048,374.916 240.048,363.576 	"/>
+	<polyline fill="#E83938" points="215.505,388.119 213.237,388.119 213.237,399.458 215.505,399.458 215.505,388.119 	"/>
+	<polyline fill="#E83938" points="190.953,412.662 188.685,412.662 188.685,424.001 190.953,424.001 190.953,412.662 	"/>
+	<polyline fill="#E83938" points="166.41,437.205 164.142,437.205 164.142,448.544 166.41,448.544 166.41,437.205 	"/>
+	<polyline fill="#E83938" points="141.867,461.748 139.599,461.748 139.599,473.087 141.867,473.087 141.867,461.748 	"/>
+	<polyline fill="#E83938" points="117.324,486.299 115.056,486.299 115.056,497.639 117.324,497.639 117.324,486.299 	"/>
+	<polyline fill="#E83938" points="92.781,510.842 90.513,510.842 90.513,522.182 92.781,522.182 92.781,510.842 	"/>
+	<polyline fill="#E83938" points="68.238,535.385 65.97,535.385 65.97,546.725 68.238,546.725 68.238,535.385 	"/>
+	<polyline fill="#E83938" points="43.695,559.928 41.427,559.928 41.427,571.268 43.695,571.268 43.695,559.928 	"/>
+	<polyline fill="#E83938" points="14.802,581.645 13.197,583.25 21.216,591.268 22.82,589.664 14.802,581.645 	"/>
+	<polyline fill="#E83938" points="275.792,473.673 274.189,475.276 282.208,483.294 283.811,481.692 275.792,473.673 	"/>
+	<polyline fill="#E83938" points="312.534,444.098 310.266,444.098 310.266,455.438 312.534,455.438 312.534,444.098 	"/>
+	<polyline fill="#E83938" points="344.934,411.699 342.666,411.699 342.666,423.039 344.934,423.039 344.934,411.699 	"/>
+	<polyline fill="#E83938" points="377.334,379.298 375.066,379.298 375.066,390.638 377.334,390.638 377.334,379.298 	"/>
+	<polyline fill="#E83938" points="409.734,346.899 407.466,346.899 407.466,358.239 409.734,358.239 409.734,346.899 	"/>
+
+    <a xlink:href="./SearchStationServlet?requestedStationName=midsommarkransen" target="_top">  
+	    <text transform="matrix(1 0 0 1 412.4658 361.3003)" fill="#FFFFFF">Midsommarkransen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=aspudden" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 392.0181 309.1372)" fill="#FFFFFF">Aspudden</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=ornsberg" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 341.0327 309.1382)" fill="#FFFFFF">Örnsberg</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=telefonplan" target="_top">  
+	    <text transform="matrix(1 0 0 1 380.0659 393.6997)" fill="#FFFFFF">Telefonplan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=hagerstensasen" target="_top">  
+	    <text transform="matrix(1 0 0 1 347.666 426.1001)" fill="#FFFFFF">Hägerstensåsen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=vastertorp" target="_top">  
+	    <text transform="matrix(1 0 0 1 315.2661 458.4995)" fill="#FFFFFF">Västertorp</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=fruangen" target="_top">  
+	    <text transform="matrix(1 0 0 1 282.708 491.4429)" fill="#FFFFFF">Fruängen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=axelsberg" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 290.1831 309.1372)" fill="#FFFFFF">Axelsberg</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=satra" target="_top">  
+	    <text transform="matrix(1 0 0 1 218.2368 402.52)" fill="#FFFFFF">Sätra</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=skarholmen" target="_top">  
+	    <text transform="matrix(1 0 0 1 193.6855 427.063)" fill="#FFFFFF">Skärholmen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=varberg" target="_top">  
+	    <text transform="matrix(1 0 0 1 169.1426 451.606)" fill="#FFFFFF">Vårberg</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=varby_gard" target="_top">  
+	    <text transform="matrix(1 0 0 1 144.5996 476.1489)" fill="#FFFFFF">Vårby gård</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=masmo" target="_top">  
+	    <text transform="matrix(1 0 0 1 120.0566 500.7007)" fill="#FFFFFF">Masmo</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=fittja" target="_top">  
+	    <text transform="matrix(1 0 0 1 95.5137 525.2437)" fill="#FFFFFF">Fittja</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=bredang" target="_top">  
+    	<text transform="matrix(1 0 0 1 242.7798 377.9771)" fill="#FFFFFF">Bredäng</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=malarhojden" target="_top">  
+	    <text transform="matrix(1 0 0 1 267.3232 353.4341)" fill="#FFFFFF">Mälarhöjden</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=alby" target="_top">  
+	    <text transform="matrix(1 0 0 1 70.9707 549.7866)" fill="#FFFFFF">Alby</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=hallunda" target="_top">  
+	    <text transform="matrix(1 0 0 1 46.4268 574.3296)" fill="#FFFFFF">Hallunda</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=norsborg" target="_top">  
+	    <text transform="matrix(1 0 0 1 24.5605 593.4839)" fill="#FFFFFF">Norsborg</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=hornstull" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 492.5547 309.1372)" fill="#FFFFFF">Hornstull</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=zinkensdamm" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 542.7617 309.1372)" fill="#FFFFFF">Zinkensdamm</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=mariatorget" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 593.6826 309.1372)" fill="#FFFFFF">Mariatorget</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=liljeholmen" target="_top">  
+	    <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 442.9375 309.1372)" fill="#FFFFFF">Liljeholmen</text>
+    </a>
+
+    <polyline fill="#4B5DAA" points="536,238.782 536,244.451 538.268,244.451 538.268,238.782 536,238.782 	"/>
+    <a xlink:href="./SearchStationServlet?requestedStationName=radhuset" target="_top">  
+	    <text transform="matrix(1 0 0 1 536 235.8716)" fill="#FFFFFF">Rådhuset</text>
+    </a>
+    <rect x="653" y="319.625" fill="#48A347" width="5.669" height="2.268"/>
+	<rect x="653" y="344.967" fill="#48A347" width="5.669" height="2.268"/>
+    <a xlink:href="./SearchStationServlet?requestedStationName=medborgarplatsen" target="_top">  
+    	<text transform="matrix(1 0 0 1 661 323.7437)" fill="#FFFFFF">Medborgarplatsen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=skanstull" target="_top">  
+	<text transform="matrix(1 0 0 1 661 348.8745)" fill="#FFFFFF">Skanstull</text>
+    </a>
+	<polyline fill="#4B5DAA" points="746.489,238.476 746.489,249.815 748.757,249.815 748.757,238.476 746.489,238.476 	"/>
+    <a xlink:href="./SearchStationServlet?requestedStationName=kungstradgarden" target="_top"> 
+	<text transform="matrix(1 0 0 1 746.8906 235.8716)" fill="#FFFFFF">Kungsträdgården</text>
+    </a>
+	<g>
+		<path d="M641.438,173.046c0,1.93,1.57,3.5,3.5,3.5s3.5-1.57,3.5-3.5s-1.57-3.5-3.5-3.5S641.438,171.117,641.438,173.046z"/>
+		<path fill="#E83938" d="M644.938,168.547c-2.485,0-4.5,2.015-4.5,4.5s2.015,4.5,4.5,4.5c2.484,0,4.5-2.015,4.5-4.5
+			S647.422,168.547,644.938,168.547L644.938,168.547z M644.938,175.547c-1.38,0-2.5-1.121-2.5-2.5s1.12-2.5,2.5-2.5
+			c1.379,0,2.5,1.121,2.5,2.5S646.316,175.547,644.938,175.547L644.938,175.547z"/>
+		<circle fill="none" stroke="#000000" stroke-miterlimit="3" cx="644.938" cy="173.046" r="4.5"/>
+	</g>
+    <a xlink:href="./SearchStationServlet?requestedStationName=ostermalmstorg" target="_top">  
+    	<text transform="matrix(1 0 0 1 651.0156 181.4839)" fill="#FFFFFF">Östermalmstorg</text>
+	</a>
+    <polyline fill="#48A347" points="383.244,582.221 381.64,583.826 389.658,591.844 391.262,590.24 383.244,582.221 	"/>
+	<polyline fill="#48A347" points="414.657,557.985 412.389,557.985 412.389,569.316 414.657,569.316 414.657,557.985 	"/>
+	<polyline fill="#48A347" points="441.72,530.913 439.452,530.913 439.452,542.252 441.72,542.252 441.72,530.913 	"/>
+	<polyline fill="#48A347" points="468.792,503.84 466.524,503.84 466.524,515.18 468.792,515.18 468.792,503.84 	"/>
+	<polyline fill="#48A347" points="495.855,476.778 493.596,476.778 493.596,488.118 495.855,488.118 495.855,476.778 	"/>
+	<polyline fill="#48A347" points="522.927,449.706 520.659,449.706 520.659,461.045 522.927,461.045 522.927,449.706 	"/>
+	<polyline fill="#48A347" points="549.999,422.633 547.73,422.633 547.73,433.973 549.999,433.973 549.999,422.633 	"/>
+	<polyline fill="#48A347" points="577.063,395.571 574.794,395.571 574.794,406.911 577.063,406.911 577.063,395.571 	"/>
+	<polyline fill="#48A347" points="604.134,364.814 601.866,364.814 601.866,370.483 604.134,370.483 604.134,364.814 	"/>
+    <a xlink:href="./SearchStationServlet?requestedStationName=gullmarsplan" target="_top">  
+	    <text transform="matrix(1 0 0 1 661 374.0054)" fill="#FFFFFF">Gullmarsplan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=skarmarbrink" target="_top">  
+	    <text transform="matrix(1 0 0 1 661 400.9429)" fill="#FFFFFF">Skärmarbrink</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=enskede_gard" target="_top">  
+	    <text transform="matrix(1 0 0 1 579.7939 409.9722)" fill="#FFFFFF">Enskede gård</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=sockenplan" target="_top">  
+	    <text transform="matrix(1 0 0 1 552.7305 437.0347)" fill="#FFFFFF">Sockenplan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=svedmyra" target="_top">  
+	    <text transform="matrix(1 0 0 1 525.6592 464.1069)" fill="#FFFFFF">Svedmyra</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=stureby" target="_top">  
+	    <text transform="matrix(1 0 0 1 498.5957 491.1792)" fill="#FFFFFF">Stureby</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=bandhagen" target="_top">  
+	    <text transform="matrix(1 0 0 1 471.5244 518.2417)" fill="#FFFFFF">Bandhagen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=hogdalen" target="_top">  
+	    <text transform="matrix(1 0 0 1 444.4521 545.314)" fill="#FFFFFF">Högdalen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=ragsved" target="_top">  
+	    <text transform="matrix(1 0 0 1 417.3892 572.3774)" fill="#FFFFFF">Rågsved</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=hagsatra" target="_top">  
+	    <text transform="matrix(1 0 0 1 392 593.4839)" fill="#FFFFFF">Hagsätra</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=globen" target="_top">  
+    	<text transform="matrix(1 0 0 1 601.8662 362.5444)" fill="#FFFFFF">Globen</text>
+    </a>
+	<polyline fill="#48A347" points="682.934,411.833 680.666,411.833 680.666,423.172 682.934,423.172 682.934,411.833 	"/>
+	<polyline fill="#48A347" points="711.734,426.53 709.466,426.53 709.466,437.87 711.734,437.87 711.734,426.53 	"/>
+	<polyline fill="#48A347" points="740.534,441.226 738.266,441.226 738.266,452.566 740.534,452.566 740.534,441.226 	"/>
+	<polyline fill="#48A347" points="769.334,455.932 767.066,455.932 767.066,467.272 769.334,467.272 769.334,455.932 	"/>
+	<polyline fill="#48A347" points="798.134,474.314 795.866,474.314 795.866,485.654 798.134,485.654 798.134,474.314 	"/>
+    <a xlink:href="./SearchStationServlet?requestedStationName=hammarbyhojden" target="_top">  
+	    <text transform="matrix(1 0 0 1 686.666 414.9917)" fill="#FFFFFF">Hammarbyhöjden</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=bjorkhagen" target="_top">  
+	    <text transform="matrix(1 0 0 1 715.4658 430.6118)" fill="#FFFFFF">Björkhagen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=karrtorp" target="_top">  
+	    <text transform="matrix(1 0 0 1 744.2656 446.2329)" fill="#FFFFFF">Kärrtorp</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=bagarmossen" target="_top">  
+	    <text transform="matrix(1 0 0 1 773.0664 461.853)" fill="#FFFFFF">Bagarmossen</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=skarpnack" target="_top">  
+    	<text transform="matrix(1 0 0 1 801.8662 482.4731)" fill="#FFFFFF">Skarpnäck</text>
+    </a>
+	<rect x="644" y="125.155" fill="#E83938" width="5.669" height="2.268"/>
+	<rect x="644" y="103.795" fill="#E83938" width="5.669" height="2.268"/>
+	<rect x="644" y="82.437" fill="#E83938" width="5.669" height="2.268"/>
+	<rect x="644" y="61.077" fill="#E83938" width="5.669" height="2.268"/>
+	<rect x="644" y="39.718" fill="#E83938" width="5.669" height="2.268"/>
+	<polyline fill="#E83938" points="649.669,18.359 638.331,18.359 638.331,20.626 649.669,20.626 649.669,18.359 	"/>
+    <a xlink:href="./SearchStationServlet?requestedStationName=stadion" target="_top">  
+	    <text transform="matrix(1 0 0 1 654 127.4839)" fill="#FFFFFF">Stadion</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=tekniska_hogskolan" target="_top">  
+	    <text transform="matrix(1 0 0 1 654 105.7251)" fill="#FFFFFF">Tekniska högskolan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=universitetet" target="_top">  
+	    <text transform="matrix(1 0 0 1 654 83.9653)" fill="#FFFFFF">Universitetet</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=bergshamra" target="_top">  
+	    <text transform="matrix(1 0 0 1 654 62.2065)" fill="#FFFFFF">Bergshamra</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=danderyds_sjukhus" target="_top">  
+	    <text transform="matrix(1 0 0 1 654 40.4468)" fill="#FFFFFF">Danderyds sjukhus</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=morby_centrum" target="_top">  
+    	<text transform="matrix(1 0 0 1 654 18.688)" fill="#FFFFFF">Mörby centrum</text>
+    </a>
+	<polyline fill="#E83938" points="687.803,143.985 685.535,143.985 685.535,155.325 687.803,155.325 687.803,143.985 	"/>
+	<polyline fill="#E83938" points="729.464,116.742 727.196,116.742 727.196,128.082 729.464,128.082 729.464,116.742 	"/>
+	<polyline fill="#E83938" points="771.417,85.815 768.583,85.815 768.583,97.154 771.417,97.154 771.417,85.815 	"/>
+    <a xlink:href="./SearchStationServlet?requestedStationName=karlaplan" target="_top">  
+	    <text transform="matrix(1 0 0 1 690.5352 158.3862)" fill="#FFFFFF">Karlaplan</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=gardet" target="_top">  
+	    <text transform="matrix(1 0 0 1 732.1973 131.144)" fill="#FFFFFF">Gärdet</text>
+    </a>
+    <a xlink:href="./SearchStationServlet?requestedStationName=ropsten" target="_top">  
+    	<text transform="matrix(1 0 0 1 773.582 94.2153)" fill="#FFFFFF">Ropsten</text>
+    </a>
+	<line fill="none" stroke="#4B5DAA" stroke-width="5" x1="261" y1="19.484" x2="405" y2="163.484"/>
+	<g>
+		<path d="M392.5,154.484c0,1.93,1.57,3.5,3.5,3.5s3.5-1.57,3.5-3.5s-1.57-3.5-3.5-3.5S392.5,152.554,392.5,154.484z"/>
+		<path fill="#4B5DAA" d="M396,149.984c-2.486,0-4.5,2.015-4.5,4.5c0,2.486,2.014,4.5,4.5,4.5c2.485,0,4.5-2.014,4.5-4.5
+			C400.5,151.999,398.485,149.984,396,149.984L396,149.984z M396,156.984c-1.379,0-2.5-1.121-2.5-2.5s1.121-2.5,2.5-2.5
+			s2.5,1.121,2.5,2.5S397.379,156.984,396,156.984L396,156.984z"/>
+		<circle fill="none" stroke="#000000" stroke-miterlimit="3" cx="396" cy="154.484" r="4.5"/>
+	</g>
+	<polyline fill="#4B5DAA" points="298.134,145.129 295.866,145.129 295.866,156.469 298.134,156.469 298.134,145.129 	"/>
+	<polyline fill="#4B5DAA" points="278.847,125.842 276.579,125.842 276.579,137.182 278.847,137.182 278.847,125.842 	"/>
+	<polyline fill="#4B5DAA" points="259.56,106.555 257.292,106.555 257.292,117.895 259.56,117.895 259.56,106.555 	"/>
+	<polyline fill="#4B5DAA" points="240.273,87.268 238.005,87.268 238.005,98.608 240.273,98.608 240.273,87.268 	"/>
+	<polyline fill="#4B5DAA" points="220.995,67.99 218.727,67.99 218.727,79.33 220.995,79.33 220.995,67.99 	"/>
+	<polyline fill="#4B5DAA" points="201.708,48.703 199.44,48.703 199.44,60.043 201.708,60.043 201.708,48.703 	"/>
+	<polyline fill="#4B5DAA" points="182.421,29.416 180.153,29.416 180.153,40.756 182.421,40.756 182.421,29.416 	"/>
+	<polyline fill="#4B5DAA" points="166.811,16.276 165.208,14.673 157.189,22.691 158.792,24.295 166.811,16.276 	"/>
+	<polyline fill="#E83938" points="287,310.814 287,316.596 289.268,316.596 289.268,310.814 287,310.814 	"/>
+
+</g>
+</g>
+</svg>
